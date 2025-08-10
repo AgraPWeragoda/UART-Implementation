@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Semester 4/UART PROJECT/Project
+vuart_transceiver
+Z1 !s110 1754837623
+!i10b 1
+!s100 ?UH0@iI5_b[Hg4PRBOL]g0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[3^AX59`4Zj4S[FE9PE?[2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1747880807
+8D:/Semester 4/UART PROJECT/Project/uart_transceiver.v
+FD:/Semester 4/UART PROJECT/Project/uart_transceiver.v
+!i122 0
+L0 1 201
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1754837622.000000
+!s107 D:/Semester 4/UART PROJECT/Project/uart_transceiver_tb.v|D:/Semester 4/UART PROJECT/Project/uart_transceiver.v|
+Z7 !s90 -reportprogress|300|-work|work|D:/Semester 4/UART PROJECT/Project/uart_transceiver.v|D:/Semester 4/UART PROJECT/Project/uart_transceiver_tb.v|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+vuart_transceiver_tb
+R1
+!i10b 1
+!s100 no>ZJ1N445hS5a@8nQKaP3
+R2
+IEoARaJ`Fh?IF6A2>];4Hk0
+R3
+R0
+R4
+8D:/Semester 4/UART PROJECT/Project/uart_transceiver_tb.v
+FD:/Semester 4/UART PROJECT/Project/uart_transceiver_tb.v
+!i122 0
+L0 3 117
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 D:/Semester 4/UART PROJECT/Project/uart_transceiver_tb.v|D:/Semester 4/UART PROJECT/Project/uart_transceiver.v|
+R7
+!i113 1
+R8
+R9
